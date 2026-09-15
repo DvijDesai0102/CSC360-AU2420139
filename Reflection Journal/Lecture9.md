@@ -1,6 +1,6 @@
 # Lecture 9: Textual Versus Graphical Representations, Headless Architectures, and JavaFX Application Patterns
 
-**Date:** 3 July 2026
+**Date:** 3 August 2026
 **Course:** CSC360: Computer Graphics and Interaction
 
 ---

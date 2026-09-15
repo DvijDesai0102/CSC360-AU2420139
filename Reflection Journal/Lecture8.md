@@ -1,6 +1,6 @@
 # Lecture 8: Collaborative Engineering Architecture, Systems of Linear Equations, Matrix Foundations, and Computational Linear Algebra via Maven
 
-**Date:** 4 July 2026
+**Date:** 1 August 2026
 **Course:** CSC360: Computer Graphics and Interaction
 
 ---

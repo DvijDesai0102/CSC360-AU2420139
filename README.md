@@ -31,8 +31,8 @@ In accordance with course guidelines, each entry synthesizes:
 | [Lecture5.md](./Reflection%20Journal/Lecture5.md) | Markdown Standards, Geometric Constructions, and OOP Java Graphics Architecture | 20 August 2026 | Complete |
 | [Lecture6.md](./Reflection%20Journal/Lecture6.md) | Progressive Drawing Complexity, Maven Lifecycle Architecture, Concurrency, and Java Runtime Mechanics | 25 August 2026 | Complete |
 | [Lecture7.md](./Reflection%20Journal/Lecture7.md) | Compilation Artifacts, Build Automation, Encoding Systems, Testing Architectures, and Industry Engineering Practices | 27 August 2026 | Complete |
-| [Lecture8.md](./Reflection%20Journal/Lecture8.md) | Collaborative Engineering Architecture, Systems of Linear Equations, Matrix Foundations, and Computational Linear Algebra via Maven | 4 July 2026 | Complete |
-| [Lecture9.md](./Reflection%20Journal/Lecture9.md) | Textual Versus Graphical Representations, Headless Architectures, and JavaFX Application Patterns | 3 July 2026 | Complete |
+| [Lecture8.md](./Reflection%20Journal/Lecture8.md) | Collaborative Engineering Architecture, Systems of Linear Equations, Matrix Foundations, and Computational Linear Algebra via Maven | 1 August 2026 | Complete |
+| [Lecture9.md](./Reflection%20Journal/Lecture9.md) | Textual Versus Graphical Representations, Headless Architectures, and JavaFX Application Patterns | 3 August 2026 | Complete |
 
 ---
 
