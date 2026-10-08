@@ -34,6 +34,8 @@ In accordance with course guidelines, each entry synthesizes:
 | [Lecture8.md](./Reflection%20Journal/Lecture8.md) | Collaborative Engineering Architecture, Systems of Linear Equations, Matrix Foundations, and Computational Linear Algebra via Maven | 1 August 2026 | Complete |
 | [Lecture9.md](./Reflection%20Journal/Lecture9.md) | Textual Versus Graphical Representations, Headless Architectures, and JavaFX Application Patterns | 3 August 2026 | Complete |
 | [Lecture10.md](./Reflection%20Journal/Lecture10.md) | Course Evaluation Framework, Core Java Foundations, Graphical Component Architecture, and Interaction Modalities | 8 September 2026 | Complete |
+| [Lecture11.md](./Reflection%20Journal/Lecture11.md) | Hands-on Group Project Planning, Workspace UI Layout Architecture, and Rapid Prototyping | 15 September 2026 | Complete |
+| [Lecture13.md](./Reflection%20Journal/Lecture13.md) | Feature Refinement, JSON Data Persistence, Repository Governance, and Technical Presentation Strategy | 29 September 2026 | Complete |
 
 ---
 
